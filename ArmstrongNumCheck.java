@@ -21,5 +21,6 @@ public class ArmstrongNumCheck {
 
         String result=(orgNum==sum?"Given Number is Armstrong!":"Given Number is Not Armstrong!");
         System.out.println(result);
+
     }
 }
